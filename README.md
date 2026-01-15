@@ -2,12 +2,9 @@
 
 ### Intern | MCA Student | Backend & AI Enthusiast
 
-Hi, I’m an MCA student currently focused on backend web development using FastAPI.
-I’m actively working on a production-style backend project involving API design, request validation, file handling, database integration, and secure data processing.
+Hi, I’m an MCA student currently focused on backend web development using FastAPI. I’m actively working on a production-style backend project involving API design, request validation, file handling, database integration, and secure data processing.
 
-I’m interested in collaborating on backend development tasks that involve clean API design, scalability, and real-world application workflows. Through hands-on project work, I aim to strengthen my understanding of how backend systems evolve from basic APIs into scalable, maintainable services.
-
-I’m open to learning, collaboration, and contributing to backend systems where performance, structure, and reliability matter.
+I’m interested in collaborating on backend development tasks that involve clean API design, scalability, and real-world application workflows. Through hands-on project work, I aim to strengthen my understanding of how backend systems evolve from basic APIs into scalable, maintainable services. I’m open to learning, collaboration, and contributing to backend systems where performance, structure, and reliability matter.
 
 🌍 Based in Kerala, India
 🚀 Focused on backend development, API design, and scalability
