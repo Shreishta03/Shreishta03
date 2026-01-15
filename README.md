@@ -1,6 +1,6 @@
 # Hi 👋 My name is Shreishta Manoj
 
-### MCA Student | Backend & AI Enthusiast
+### Intern | MCA Student | Backend & AI Enthusiast
 
 Hi, I’m an MCA student currently focused on backend web development using FastAPI.
 I’m actively working on a production-style backend project involving API design, request validation, file handling, database integration, and secure data processing.
